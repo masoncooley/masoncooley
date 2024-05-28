@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @masoncooley
-- 👀 I’m interested in learning to code and possibly making a career out of it.
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in learning networking and cybersecurity.
+- 🌱 I’m currently studying for my CCNA.
 - 📫 How to reach me ... masoncooley06@gmail.com
 
 <!---
