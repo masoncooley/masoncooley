@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masoncooley
-- 👀 I’m interested in learning networking and cybersecurity.
-- 🌱 I’m currently studying for my CCNA.
-- 📫 How to reach me ... masoncooley06@gmail.com
+- 👀 I’m interested in learning networking and system administration.
+- 🌱 I’m currently learning C++ and Linux.
+- 📫 How to reach me ... mason@masoncooley.com
 
 <!---
 masoncooley/masoncooley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
